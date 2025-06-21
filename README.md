@@ -28,7 +28,6 @@ Este é um projeto desenvolvido como parte da disciplina de Fundamentos de Desen
 
 <img src="imagens/screenshot.png" alt="Screenshot da página" width="600">
 
-*(Opcional: Substitua esse arquivo pela imagem real se quiser mostrar uma prévia no GitHub)*
 
 ---
 
