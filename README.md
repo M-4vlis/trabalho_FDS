@@ -4,7 +4,7 @@ Este é um projeto desenvolvido como parte da disciplina de Fundamentos de Desen
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -12,7 +12,7 @@ Este é um projeto desenvolvido como parte da disciplina de Fundamentos de Desen
 
 ---
 
-## 🎨 Funcionalidades da Página
+## Funcionalidades da Página
 
 - Apresentação pessoal (nome, curso, hobbies e interesses)
 - Lista de países que tenho vontade de conhecer
@@ -24,21 +24,21 @@ Este é um projeto desenvolvido como parte da disciplina de Fundamentos de Desen
 
 ---
 
-## 📷 Prévia da Página
+## Prévia da Página
 
 <img src="imagens/screenshot.png" alt="Screenshot da página" width="600">
 
 
 ---
 
-## 🚀 Como visualizar o projeto
+## Como visualizar o projeto
 
 1. Clone o repositório ou baixe os arquivos
 2. Abra o arquivo `index.html` diretamente no navegador
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Mario Pereira  
 Aluno de Análise e Desenvolvimento de Sistemas - Uninter  
